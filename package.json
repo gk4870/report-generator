@@ -1,0 +1,8 @@
+{
+  "name": "sbpdcl-report-generator",
+  "version": "1.0.0",
+  "description": "SBPDCL Internship Report Generator for NCE Chandi",
+  "scripts": {
+    "start": "serve ."
+  }
+}
